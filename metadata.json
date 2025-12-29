@@ -1,0 +1,7 @@
+{
+  "name": "BananaBiz - Multi-Role Marketplace Ecosystem",
+  "description": "A comprehensive marketplace platform featuring Super Admin, Admin, Business, and Customer roles. Includes AI-powered insights, real-time chat, analytics, and business management workflows.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
